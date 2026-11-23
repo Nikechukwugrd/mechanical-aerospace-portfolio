@@ -8,7 +8,7 @@ Selected projects in mechanical design, aerospace CAD, and engineering analysis.
 
 Personal aerospace CAD project. The SolidWorks model includes a lofted fuselage, wing and control-surface variants, the empennage, and GE Passport-inspired nacelle and fan geometry. The project documentation describes a fan-rotation motion study for visualization.
 
-Open the [top-level assembly](global-8000/The%20Bombardier%20Global%208000%20Complete%20Assembly.SLDASM) with the accompanying parts and subassemblies in the same folder. This is an educational representation. The supplied CAD archive includes a [CC0 license](global-8000/LICENSE).
+[Download the complete SolidWorks package](https://github.com/Nikechukwugrd/mechanical-aerospace-portfolio/releases/tag/global-8000-cad), extract the files together, and open the top-level assembly in SolidWorks. This is an educational representation. The supplied CAD archive includes a [CC0 license](global-8000/LICENSE).
 
 ## Electric-propulsion UAV and cave-mapping hardware
 
