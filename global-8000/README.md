@@ -1,3 +1,3 @@
 # Global 8000 educational CAD model
 
-Open the complete SolidWorks assembly with its associated part and assembly files in this folder.
+[Download the complete SolidWorks package](https://github.com/Nikechukwugrd/mechanical-aerospace-portfolio/releases/tag/global-8000-cad). Extract the files together and open `The Bombardier Global 8000 Complete Assembly.SLDASM` in SolidWorks.
