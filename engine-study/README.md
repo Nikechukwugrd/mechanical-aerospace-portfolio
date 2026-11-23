@@ -1,5 +1,7 @@
 # Inline-four engine geometry and inspection study
 
+[Open the interactive engine cutaway](https://nikechukwugrd.github.io/mechanical-aerospace-portfolio/#engine)
+
 This educational concept study explores how changing bore and stroke affects an approximately two-litre inline-four engine and how a measured bore can be compared against an illustrative drawing tolerance.
 
 Run `python study.py` from this folder. The model reports swept volume and mean piston speed at 6,000 rpm for an 86 × 86 mm baseline and a 90 × 78.5 mm alternative. A shorter stroke lowers mean piston speed at the same rpm. The larger bore maintains approximately the same swept volume. Geometry alone cannot establish power, durability, or a safe operating speed.
