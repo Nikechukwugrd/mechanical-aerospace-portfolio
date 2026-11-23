@@ -1,5 +1,7 @@
 # Stephen Evuleocha | Mechanical & Aerospace Engineering
 
+[Open the portfolio website](https://nikechukwugrd.github.io/mechanical-aerospace-portfolio/)
+
 Selected projects in mechanical design, aerospace CAD, and engineering analysis.
 
 ## Bombardier Global 8000 CAD model
